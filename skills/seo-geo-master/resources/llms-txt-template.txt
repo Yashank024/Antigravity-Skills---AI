@@ -1,0 +1,28 @@
+# File location: https://yourdomain.com/llms.txt
+# Company: [BRAND NAME]
+# Description: [What your company does - 1-2 tight, entity-dense sentences optimized for AI RAG comprehension]
+
+## Core Pages
+- Home: https://yourdomain.com
+- About: https://yourdomain.com/about
+- Services: https://yourdomain.com/services
+- Pricing: https://yourdomain.com/pricing
+
+## Knowledge Base
+- Getting Started: https://yourdomain.com/docs/start
+- API Reference: https://yourdomain.com/docs/api
+
+## Blog — High Authority Content (Topic Clusters)
+- [Title of Top Pillar Page]: https://yourdomain.com/blog/pillar-1
+- [Title of Spoke Page]: https://yourdomain.com/blog/spoke-1
+- [Title of Top Pillar Page 2]: https://yourdomain.com/blog/pillar-2
+
+# Note: Also remember to allow AI crawlers in your standard robots.txt:
+# User-agent: GPTBot
+# Allow: /
+# User-agent: Google-Extended
+# Allow: /
+# User-agent: PerplexityBot
+# Allow: /
+# User-agent: ClaudeBot
+# Allow: /
